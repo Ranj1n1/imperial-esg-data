@@ -2,11 +2,26 @@
 
 ## Description
 
-(Hui Li to fill)
+Context: TBC
+
+
+Key Objective: TBC
+
+
+## Useful Information 
+Key Issues in ESG that are relevant to each Industry / Sector
+https://www.msci.com/our-solutions/esg-investing/esg-ratings/materiality-map
+
 
 ## Datasets
 
-(Hui Li to fill)
+1. Yahoo Finance API - ESG Risk (Powered by Sustainalytics), Statistics & News 
+2. World Bank ESG Data - https://databank.worldbank.org/source/environment-social-and-governance-(esg)-data#
+3. ESG Book - https://app.esgbook.com/dashboard
+4. MSCI Free Report - https://www.msci.com/research-and-insights/esg-ratings-corporate-search-tool
+5. Newsapi - Endpoint url : 'https://newsapi.org/v2/everything?'
+
+
 
 ## Format of Folder Structure
 
