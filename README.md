@@ -2,16 +2,28 @@
 
 ## Description
 
-Context: TBC
+Context: 
+With an increasing demand on investors to drive sustainable investment, many asset management firms are driven to integrate ESG metrics as part of their investment decision making process. Like many others, Eastspring relies on various ESG data providers (such as MSCI, Refinitiv etc.)  to suffice our ESG data needs.
+
+Since ESG data providers has its own set of methodology / linkage, the data issues arises when business units consolidate multiple ESG data sources together with in-house data sources for their ESG needs. As a result, enormous amount of time spent to perform data cleansing before generating their own customized metrics based on project scope.
+
+Lastly, ESG metrics (such as ratings / scoring etc.)  are influenced by numerous factors (which is dependent on the portfolio and securities industries). Hence, it’s often challenging for the team to track and monitor the changes based on these factors.
 
 
-Key Objective: TBC
+Key Objective: 
+-	Automated Data Cleansing workflow to increase accuracy of ESG data quality and allow end-users to perform timely analysis 
+-	Monitoring on ESG data quality health status for early intervention  
+-	Repository for ESG taxonomy to provide ease of data comparison across enterprise 
+-	Diagnostic Dashboard to understand the movement of ESG metrics from its contributing factor (at portfolio / security level)
 
 
 ## Useful Information 
 Key Issues in ESG that are relevant to each Industry / Sector
 https://www.msci.com/our-solutions/esg-investing/esg-ratings/materiality-map
 
+ESG Ratings by Market Data Providers
+https://www.msci.com/our-solutions/esg-investing/esg-ratings
+https://www.refinitiv.com/content/dam/marketing/en_us/documents/methodology/refinitiv-esg-scores-methodology.pdf
 
 ## Datasets
 
@@ -20,7 +32,7 @@ https://www.msci.com/our-solutions/esg-investing/esg-ratings/materiality-map
 3. ESG Book - https://app.esgbook.com/dashboard
 4. MSCI Free Report - https://www.msci.com/research-and-insights/esg-ratings-corporate-search-tool
 5. Newsapi - Endpoint url : 'https://newsapi.org/v2/everything?'
-
+6. ClimateBERT - https://climatebert.ai/language-model
 
 
 ## Format of Folder Structure
