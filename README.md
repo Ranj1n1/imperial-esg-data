@@ -18,11 +18,11 @@ Key Objective:
 
 ## Useful Information 
 - Key Issues in ESG that are relevant to each Industry / Sector
-https://www.msci.com/our-solutions/esg-investing/esg-ratings/materiality-map
+a. https://www.msci.com/our-solutions/esg-investing/esg-ratings/materiality-map
 
 - ESG Ratings by Market Data Providers
-https://www.msci.com/our-solutions/esg-investing/esg-ratings
-https://www.refinitiv.com/content/dam/marketing/en_us/documents/methodology/refinitiv-esg-scores-methodology.pdf
+a. https://www.msci.com/our-solutions/esg-investing/esg-ratings
+b. https://www.refinitiv.com/content/dam/marketing/en_us/documents/methodology/refinitiv-esg-scores-methodology.pdf
 
 ## Datasets
 
