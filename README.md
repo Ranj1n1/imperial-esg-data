@@ -2,7 +2,6 @@
 
 ## Description
 
-Context: 
 With an increasing demand on investors to drive sustainable investment, many asset management firms are driven to integrate ESG metrics as part of their investment decision making process. Like many others, Eastspring relies on various ESG data providers (such as MSCI, Refinitiv etc.)  to suffice our ESG data needs.
 
 Since ESG data providers has its own set of methodology / linkage, the data issues arises when business units consolidate multiple ESG data sources together with in-house data sources for their ESG needs. As a result, enormous amount of time spent to perform data cleansing before generating their own customized metrics based on project scope.
@@ -18,10 +17,10 @@ Key Objective:
 
 
 ## Useful Information 
-Key Issues in ESG that are relevant to each Industry / Sector
+- Key Issues in ESG that are relevant to each Industry / Sector
 https://www.msci.com/our-solutions/esg-investing/esg-ratings/materiality-map
 
-ESG Ratings by Market Data Providers
+- ESG Ratings by Market Data Providers
 https://www.msci.com/our-solutions/esg-investing/esg-ratings
 https://www.refinitiv.com/content/dam/marketing/en_us/documents/methodology/refinitiv-esg-scores-methodology.pdf
 
